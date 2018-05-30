@@ -1,0 +1,17 @@
+Confrigation:
+
+....................................................
+Ide : Netbeans 8.0
+
+Database :MySQl workbench/ Xamp (already contains MySQL)
+
+Laungauge : html,jsp,servlet
+
+Server: Glassfish 4
+
+....................................................
+
+simply import database 
+....................................................
+
+import bloodbank.zip file in netbenas....
